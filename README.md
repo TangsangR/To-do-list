@@ -12,7 +12,10 @@ To Do List✅
 
 Basic todolist webpage using Javascript
 
-![image](<img width="1918" height="897" alt="Screenshot 2025-11-20 173641" src="https://github.com/user-attachments/assets/1a28af46-6dd7-4648-95f4-44baa37e7c8e" />)
+<p align="center">
+  <img  width="1918" height="897" alt="Screenshot 2025-11-20 173641" src="https://github.com/user-attachments/assets/be4b723c-06a2-4e19-96e4-58e8561a64f5">
+</p>
+
 
 
 ## Features
