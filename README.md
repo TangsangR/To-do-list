@@ -23,9 +23,11 @@ Basic todolist webpage using Javascript
 - Basic table
 - Edit, Delete and checked buttons
 - Responsive to pointer
-- Quick
+- backend
 
 
 ## Demo
+
+https://tangsangr.github.io/To-do-list/to%20do%20list/index.html
 https://todolist-tr2.netlify.app/
 
